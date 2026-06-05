@@ -15,5 +15,5 @@ export default defineConfig({
   // GitHub Pages için önemli!
   // GitHub Pages URL'i: https://kullaniciadi.github.io/REPO_ADI/
   // base değeri = "/REPO_ADI/"
-  base: "/todo-app/",
+  base: "/wep05-06.2026/",
 });
